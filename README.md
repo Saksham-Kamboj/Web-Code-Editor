@@ -38,4 +38,4 @@ https://github.com/Saksham-Kamboj/Web-Code-Editor/assets/111846740/768fba0b-3d60
 
 
 ## Diploye view
-This site is live at <a href="https://saksham-kamboj.github.io/Web-Code-Editor/">Here</a>
+This site is live at <a href="https://saksham-kamboj.github.io/Web-Code-Editor/" target="_blank">Here</a>
