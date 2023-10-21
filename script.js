@@ -1,5 +1,4 @@
 
-
 // *********** Lock/Unlock Button script *************
 
 let locked = false;
