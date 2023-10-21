@@ -37,5 +37,5 @@ This editor allows you to write and run HTML, CSS, and JavaScript code using an 
 https://github.com/Saksham-Kamboj/Web-Code-Editor/assets/111846740/768fba0b-3d60-4d29-9e4f-71991dcacb20
 
 
-## Deploy view
+## Diploye view
 This site is live at <a href="https://saksham-kamboj.github.io/Web-Code-Editor/">Here</a>
